@@ -20,7 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=btaraki02&show_icons=true&locale=en" alt="btaraki02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=btaraki02&" alt="btaraki02" /></p>
-<h1 align="left">Hi 👋☕! My name is Bilal  and I'm a student, from Morocco.;}</h1>
 
 ###
 
