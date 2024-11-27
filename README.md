@@ -2,9 +2,6 @@
 <h3 align="center">I am from MOROCCO🍀👑..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=btaraki02&label=Profile%20views&color=0e75b6&style=flat" alt="btaraki02" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=btaraki02" alt="btaraki02" /></a> </p>
-
 - ⚡ Fun fact **I am a beginner**
 
 <h3 align="left">Connect with me:</h3>
