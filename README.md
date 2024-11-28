@@ -1,4 +1,4 @@
-<h1 align="center">Hi , ☕I'm Bilal Taraki☕</h1>
+
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDC5F4&height=120&section=header"/>
 </a>
