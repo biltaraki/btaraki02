@@ -1,4 +1,12 @@
 <h1 align="center">Hi , ☕I'm Bilal Taraki☕</h1>
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDC5F4&height=120&section=header"/>
+</a>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDC5F4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Medba;I'm+a+C+Developer;Be+Welcome!+ツ)
+
+![](https://komarev.com/ghpvc/?username=med6ba&style=flat-square)
+
 <h3 align="center">I am from MOROCCO🍀👑..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=btaraki02&label=Profile%20views&color=0e75b6&style=flat" alt="btaraki02" /> </p>
