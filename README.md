@@ -3,9 +3,9 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDC5F4&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDC5F4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Medba;I'm+a+C+Developer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDC5F4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bilal;I'm+a+C+Developer;Be+Welcome!+ツ)
 
-![](https://komarev.com/ghpvc/?username=med6ba&style=flat-square)
+
 
 <h3 align="center">I am from MOROCCO🍀👑..</h3>
 
