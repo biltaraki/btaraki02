@@ -3,7 +3,7 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=BDC5F4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bilal;I'm+a+C+Developer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF8C00&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bilal;I'm+a+C+Developer;Be+Welcome!+ツ)
 
 
 
