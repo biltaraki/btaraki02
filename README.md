@@ -3,13 +3,10 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bilal;I'm+a+C+Developer;Be+Welcome!+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Bilal;I+am+from+MOROCCO+ツ+Fun+fact+**I+am+a+beginneI'm+a+C+Developer;Be+Welcome!+ツ)
 
 
 
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=I+am+from+MOROCCO+ツ+Fun+fact+**I+am+a+beginner)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=btaraki02&label=Profile%20views&color=0e75b6&style=flat" alt="btaraki02" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
