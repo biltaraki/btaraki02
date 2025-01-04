@@ -2,6 +2,7 @@
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 </a>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=35&center=true&vCenter=true&width=1000&lines=WELCOME+TO+MY+GITHUB+ツ)
 # About Me 🙋‍♂️✨
 
 Hi there! I'm **Bilal**, a passionate learner from Morocco 🇲🇦, on an exciting journey to become a standout programmer. Here's a little more about me:
