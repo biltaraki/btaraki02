@@ -11,7 +11,7 @@ Hi there! I'm **Bilal**, a passionate learner from Morocco 🇲🇦, on an excit
 ## 🌟 **Who Am I?**
 - 🖥️ **Aspiring Programmer**: Focused on mastering the **C programming language** and **Linux systems**.  
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Logo" width="50"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Kali_Linux_2.0_wordmark.svg" alt="Kali Linux Logo" width="100"/>  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM5qMo1e48pexlbaypluz48S8MdMsB6o5nMg&s" alt="Kali Linux Logo" width="100"/>  
 
 ---
 
