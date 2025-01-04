@@ -11,7 +11,7 @@ Hi there! I'm **Bilal**, a passionate learner from Morocco 🇲🇦, on an excit
 ## 🌟 **Who Am I?**
 - 🖥️ **Aspiring Programmer**: Focused on mastering the **C programming language** and **Linux systems**.  
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Logo" width="50"/>  
-  <img src="https://wallpapers.com/images/hd/kali-linux-background-heyjp9plc2yahall.jpg" alt="Kali Linux Logo" width="100"/>  
+  <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux Logo" width="100"/>  
 
 ---
 
@@ -46,4 +46,5 @@ I'm on a mission to turn my **dreams into reality** through hard work, persisten
 ---
 
 *"Success is no accident. It is hard work, perseverance, learning, studying, sacrifice, and most of all, love of what you are doing or learning to do."* – **Pelé**
+
 
