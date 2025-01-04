@@ -19,6 +19,7 @@
 
 ###
 
-<div align="left">
-  <img height="158" src="https://4kwallpapers.com/images/walls/thumbs_3t/18304.png"  />
+
+<div align="center">
+  <img src="https://4kwallpapers.com/images/walls/thumbs_3t/6875.jpg" style="width:600px; height:400px;"/>
 </div>
