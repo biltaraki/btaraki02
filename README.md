@@ -1,5 +1,6 @@
 # Hi there! 👋 I'm Bilal taraki
-
+## 🏴‍☠️ One Piece Vibes!
+![One Piece Pirates](https://media.giphy.com/media/u0SQkPClLiBry/giphy.gif?cid=ecf05e47xu6m35kiab1r3w7f85ex8y0c6o73px5pbm17xdmj&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 Welcome to my GitHub profile! I'm passionate about programming and always eager to learn new technologies. 🚀
 
 ## 🔧 Technologies & Skills
@@ -38,4 +39,4 @@ I'm working on automating updates to my stats and projects using GitHub Actions!
 
 ## 🏴‍☠️ One Piece Vibes!
 ![Luffy One Piece](https://media.giphy.com/media/ht4oClZ65E2d5bUtPF/giphy.gif?cid=790b7611fb93oa39pldalnr30dpj1a1u8znlcohko16jsp6u&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-![One Piece Pirates](https://media.giphy.com/media/3o85xMlStXh2jCG7z2/giphy.gif)
+
