@@ -1,6 +1,6 @@
 
 <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=header" />
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19c4ef&height=120&section=header" />
 </a>
 
 ![Typing
@@ -43,7 +43,4 @@ bilal_taraki)
 
 ## 💡 My Coding Journey
 ![Learning C](https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif)
-
-## 🏴‍☠️ One Piece!
-![Luffy One Piece](https://media.giphy.com/media/ht4oClZ65E2d5bUtPF/giphy.gif?cid=790b7611fb93oa39pldalnr30dpj1a1u8znlcohko16jsp6u&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
