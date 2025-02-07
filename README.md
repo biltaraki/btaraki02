@@ -1,13 +1,10 @@
-# Hi there! 👋 I'm Bilal taraki
+
 <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=120&section=header" />
 </a>
 
 ![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Aymane+Hamdi;I'm+from+Morocco;I'm+a+Mobile+App+Developer;Be+Welcome!+ツ)
-
-# <img src="https://github.com/elon-fask/Elon-Fask/blob/main/img/about_me.gif" width="40px"> **About Me**
-<h2 align="center" color="midnight-purple">
+SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&vCenter=true&width=1000&lines=Hi,there!+👋+I'm+Bilal+Taraki;Be+Welcome!+ツ)
 ## 🏴‍☠️ One Piece !
 ![One Piece Pirates](https://media1.tenor.com/m/UV07PXEvoEIAAAAd/one-piece-opening-26.gif)
 
