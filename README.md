@@ -4,7 +4,7 @@
 </a>
 
 ![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&vCenter=true&width=1000&lines=Hi!;+I'm;Bilal+Taraki;;+ツ)
+SVG](https://readme-typing-svg.herokuapp.com/?color=08c6cf&size=35&center=true&vCenter=true&width=1000&lines=Hi!;+I'm+Bilal+Taraki;;+ツ)
 
 ![One Piece Pirates](https://media1.tenor.com/m/UV07PXEvoEIAAAAd/one-piece-opening-26.gif)
 
