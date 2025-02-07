@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Bilal taraki
 ## 🏴‍☠️ One Piece !
-![One Piece Pirates](https://tenor.com/rOk5miQLO8d.gif)
+![One Piece Pirates](https://media1.tenor.com/m/zY6k33262yMAAAAC/one-piece-one-piece-op-26.gif)
 
 
 Welcome to my GitHub profile! I'm passionate about programming and always eager to learn new technologies. 🚀
