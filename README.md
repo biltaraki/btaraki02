@@ -23,10 +23,12 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&v
 </p>
 
 
-## 📊 GitHub Stats
-![Bataraki02's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bataraki02&show_icons=true&theme=radical)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=btaraki02&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=btaraki02&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=btaraki02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bataraki02&layout=compact&theme=radical)
+---
 
 ## 📫 Connect with Me
 - 📧 Email: lofydi1@gmail.com
@@ -36,12 +38,7 @@ bilal_taraki)
 
 ## ⚡ Fun Fact
 ## I'm on a journey to master C and shell scripting! Let's build something amazing together. 😊
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=btaraki02&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=btaraki02&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=btaraki02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
 [![](https://visitcount.itsvg.in/api?id=btaraki02&icon=9&color=1)](https://visitcount.itsvg.in)
 
 ## 💡 My Coding Journey
