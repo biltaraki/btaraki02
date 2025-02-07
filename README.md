@@ -36,16 +36,17 @@ bilal_taraki)
 
 ## ⚡ Fun Fact
 ## I'm on a journey to master C and shell scripting! Let's build something amazing together. 😊
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=btaraki02&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=btaraki02&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=btaraki02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🛠️ GitHub Actions
-I'm working on automating updates to my stats and projects using GitHub Actions!
-
-![Coding](https://media.giphy.com/media/3oEjI5k7q7tdzO8wMw/giphy.gif)
-![GitHub Action](https://media.giphy.com/media/3oEjI5Q3Zl0h8V1lLm/giphy.gif)
+---
+[![](https://visitcount.itsvg.in/api?id=btaraki02&icon=9&color=1)](https://visitcount.itsvg.in)
 
 ## 💡 My Coding Journey
-![Learning C](https://media.giphy.com/media/l378yjbHBzZb8K8LM/giphy.gif)
+![Learning C](https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif)
 
-## 🏴‍☠️ One Piece Vibes!
+## 🏴‍☠️ One Piece!
 ![Luffy One Piece](https://media.giphy.com/media/ht4oClZ65E2d5bUtPF/giphy.gif?cid=790b7611fb93oa39pldalnr30dpj1a1u8znlcohko16jsp6u&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
