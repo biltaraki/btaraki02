@@ -37,5 +37,5 @@ I'm working on automating updates to my stats and projects using GitHub Actions!
 ![Learning C](https://media.giphy.com/media/l378yjbHBzZb8K8LM/giphy.gif)
 
 ## 🏴‍☠️ One Piece Vibes!
-![Luffy One Piece](https://media.giphy.com/media/9V7yHheOsVlzFubx9J/giphy.gif)
+![Luffy One Piece](https://media.giphy.com/media/ht4oClZ65E2d5bUtPF/giphy.gif?cid=790b7611fb93oa39pldalnr30dpj1a1u8znlcohko16jsp6u&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ![One Piece Pirates](https://media.giphy.com/media/3o85xMlStXh2jCG7z2/giphy.gif)
