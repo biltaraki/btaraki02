@@ -4,12 +4,12 @@
 </a>
 
 ![Typing
-SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&vCenter=true&width=1000&lines=Hi;!+👋+I'm+Bilal+Taraki;Be+Welcome!+ツ)
+SVG](https://readme-typing-svg.herokuapp.com/?color=9745f5&size=35&center=true&vCenter=true&width=1000&lines=Hi!;+I'm;Bilal+Taraki;;+ツ)
 
 ![One Piece Pirates](https://media1.tenor.com/m/UV07PXEvoEIAAAAd/one-piece-opening-26.gif)
 
 
-##Welcome to my GitHub profile! I'm passionate about programming and always eager to learn new technologies. 🚀
+## Welcome to my GitHub profile! I'm passionate about programming and always eager to learn new technologies. 🚀
 
 ## 🔧 Technologies & Skills
 - 💻 **Languages:** C, Bash, Shell Scripting
