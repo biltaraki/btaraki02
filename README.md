@@ -1,18 +1,41 @@
-# 💫 About Me:
-🔭 I’m currently working on C<br>
+# Hi there! 👋 I'm Bilal taraki
 
+Welcome to my GitHub profile! I'm passionate about programming and always eager to learn new technologies. 🚀
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bilal_taraki) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lofydi1@gmail.com) 
+## 🔧 Technologies & Skills
+- 💻 **Languages:** C, Bash, Shell Scripting
+- 🖥️ **Operating Systems:** Linux, Unix
+- 🌐 **Version Control:** Git, GitHub
+- 📚 **Learning:** Advanced C, System Programming, and Git mastery
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=btaraki02&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=btaraki02&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=btaraki02&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🌟 Featured Projects:
+- [Project 1](https://github.com/username/project1) - A cool project that does XYZ
+- [Project 2](https://github.com/username/project2) - Another amazing project focused on ABC
 
----
-[![](https://visitcount.itsvg.in/api?id=btaraki02&icon=9&color=1)](https://visitcount.itsvg.in)
+## 📊 GitHub Stats
+![Bataraki02's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bataraki02&show_icons=true&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bataraki02&layout=compact&theme=radical)
+
+## 📫 Connect with Me
+- 📧 Email: lofydi1@gmail.com
+- 💬 Discord: [Your Discord Here]
+- 🌍 [Your Personal Website or Blog (if any)]
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Twitter](https://twitter.com/yourprofile)
+
+## ⚡ Fun Fact
+I'm on a journey to master C and shell scripting! Let's build something amazing together. 😊
+
+## 🛠️ GitHub Actions
+I'm working on automating updates to my stats and projects using GitHub Actions!
+
+![Coding](https://media.giphy.com/media/3oEjI5k7q7tdzO8wMw/giphy.gif)
+![GitHub Action](https://media.giphy.com/media/3oEjI5Q3Zl0h8V1lLm/giphy.gif)
+
+## 💡 My Coding Journey
+![Learning C](https://media.giphy.com/media/l378yjbHBzZb8K8LM/giphy.gif)
+
+## 🏴‍☠️ One Piece Vibes!
+![Luffy One Piece](https://media.giphy.com/media/9V7yHheOsVlzFubx9J/giphy.gif)
+![One Piece Pirates](https://media.giphy.com/media/3o85xMlStXh2jCG7z2/giphy.gif)
