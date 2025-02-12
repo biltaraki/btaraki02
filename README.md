@@ -2,7 +2,7 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19c4ef&height=120&section=header" />
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08c6cf&size=35&center=true&vCenter=true&width=1000&lines=Hi!;+I'm+Bilal+Taraki;;+ツ)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08c6cf&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;+I'm+Bilal+Taraki;;+ツ)
 
 ![One Piece Pirates](https://media1.tenor.com/m/UV07PXEvoEIAAAAd/one-piece-opening-26.gif)
 
