@@ -6,7 +6,7 @@
 
 ![One Piece Pirates](https://media1.tenor.com/m/UV07PXEvoEIAAAAd/one-piece-opening-26.gif)
 
-## Welcome to my GitHub profile! I'm passionate about programming and always eager to learn new technologies. 🚀
+## Welcome to my GitHub profile! I'm passionate about programming and always eager to learn new technologies.
 
 ## 🔧 Technologies & Skills
 - 💻 **Languages:** C, Bash, Shell Scripting
