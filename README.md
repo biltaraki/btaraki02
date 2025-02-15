@@ -41,4 +41,4 @@
 [![](https://visitcount.itsvg.in/api?id=btaraki02&icon=9&color=1)](https://visitcount.itsvg.in)
 
 ## 💡 My Coding Journey
-![Learning C](https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif)
+![Learning C]()
