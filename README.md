@@ -4,9 +4,6 @@
 </a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08c6cf&size=35&center=true&vCenter=true&width=1000&lines=HELLO!;+I'm+Bilal+Taraki;;+ツ)
-
-![One Piece Pirates](https://media1.tenor.com/m/UV07PXEvoEIAAAAd/one-piece-opening-26.gif)
-
 ## Welcome to my GitHub profile! I'm passionate about programming and always eager to learn new technologies.
 
 ## 🔧 Technologies & Skills
@@ -39,6 +36,3 @@
 ## I'm on a journey to master C and shell scripting! Let's build something amazing together.
 
 [![](https://visitcount.itsvg.in/api?id=btaraki02&icon=9&color=1)](https://visitcount.itsvg.in)
-
-## 💡 My Coding Journey
-![Learning C]()
