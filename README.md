@@ -3,7 +3,7 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19c4ef&height=120&section=header" />
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08c6cf&size=35&center=true&vCenter=true&width=1000&lines=HELLO%E3%80%88%EF%BC%88%EF%BC%BE%EF%BC%8D%EF%BC%BE%EF%BC%89%E3%80%89;+I'm+Bilal+Taraki;+♪（￣︶￣）↗　)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08c6cf&size=35&center=true&vCenter=true&width=1000&lines=HELLO%E3%80%88%EF%BC%88%EF%BC%BE%EF%BC%8D%EF%BC%BE%EF%BC%89%E3%80%89;+I'm+Bilal+Taraki🐦‍🔥;+♪（￣︶￣）↗　)
 
 ## Welcome to my GitHub profile! I'm passionate about programming and always eager to learn new technologies.
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me 📨🐦‍🔥
 - 📧 Email: lofydi1@gmail.com
 - [Instagram](https://www.instagram.com/bilal_taraki)
 
