@@ -33,7 +33,7 @@
 -  Email: lofydi1@gmail.com
 - [Instagram](https://www.instagram.com/bilal_taraki)
 
-##  Fun Fact
+##  Fun Fact☕😐
 ## I'm on a journey to master C and shell scripting! Let's build something amazing together.
 
 [![](https://visitcount.itsvg.in/api?id=btaraki02&icon=9&color=1)](https://visitcount.itsvg.in)
