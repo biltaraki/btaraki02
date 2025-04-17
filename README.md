@@ -7,7 +7,7 @@
 
 ## Welcome to my GitHub profile! I'm passionate about programming and always eager to learn new technologies.
 
-##  Technologies & Skills
+##  Technologies & Skills😶‍🌫️😶‍🌫️
 -  **Languages:** C, Bash, Shell Scripting
 -  **Operating Systems:** Linux, Unix
 -  **Version Control:** Git, GitHub
