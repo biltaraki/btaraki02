@@ -3,7 +3,7 @@
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=19c4ef&height=120&section=header" />
 </a>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08c6cf&size=35&center=true&vCenter=true&width=1000&lines=HELLO;+I'm+Bilal+Taraki🐦‍🔥)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08c6cf&size=35&center=true&vCenter=true&width=1000&lines=𝓗𝓮𝓵𝓵𝓸;+𝓘'𝓶+𝓑𝓲𝓵𝓪𝓵+𝓣𝓪𝓻𝓪𝓴𝓲🐦‍🔥)
 
 ## Welcome to my GitHub profile! I'm passionate about programming and always eager to learn new technologies.
 
