@@ -31,7 +31,7 @@
 
 ##  Connect with Me
 -  Email: lofydi1@gmail.com
-- [Instagram](https://www.instagram.com/bilal_taraki)
+- Insta: [Instagram](https://www.instagram.com/bilal_taraki)
 
 ##  Fun Fact 
 ## I'm on a journey to master C and shell scripting! Let's build something amazing together.
