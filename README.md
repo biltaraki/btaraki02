@@ -30,7 +30,6 @@
 ---
 
 ##  Connect with Me
--  Email: lofydi1@gmail.com
 - Insta: [Instagram](https://www.instagram.com/bilal_taraki)
 
 ##  Fun Fact 
