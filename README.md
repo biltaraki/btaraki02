@@ -11,7 +11,7 @@
 -  **Languages:** C, Bash, Shell Scriping.
 -  **Operating Systems:** Linux, Unix.
 -  **Version Control:** Git, GitHub.
--  **Learning:** Advanced C, System Programming, and Git mastery..
+-  **Learning:** Advanced C, System Programming, and Git mastery.
 
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="60" height="60" alt="C" /></a>
