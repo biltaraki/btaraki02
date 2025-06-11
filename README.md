@@ -6,10 +6,10 @@
 
 ## Technologies & Skills.
 
-* **Languages:** C, Bash, Shell Scriping.🐦‍🔥
-* **Operating Systems:** Linux, Unix.🐦‍🔥
-* **Version Control:** Git, GitHub.🐦‍🔥
-* **Learning:** Advanced C, System Programming, and Git mastery.🐦‍🔥
+* **Languages:** C, Bash, Shell Scriping.
+* **Operating Systems:** Linux, Unix.
+* **Version Control:** Git, GitHub.
+* **Learning:** Advanced C, System Programming, and Git mastery.
 
 <p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="60" height="60" alt="C" /></a>
@@ -19,7 +19,7 @@
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="60" height="60" alt="Linux" /></a>
 </p>
 
-# 📊 GitHub 🐦‍🔥Stats:::
+# 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=btaraki02\&theme=blueberry\&hide_border=false\&include_all_commits=true\&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=btaraki02\&theme=blue-green\&hide_border=false)<br/>
