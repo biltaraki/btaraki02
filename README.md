@@ -60,6 +60,6 @@ low-level programming and system development.
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="[https://visitcount.itsvg.in/api?id=btaraki02&icon=9&color=1](https://w.wallhaven.cc/full/wq/wallhaven-wq2kp7.png)" />
+    <img src="https://w.wallhaven.cc/full/wq/wallhaven-wq2kp7.png" width="600"/>
   </a>
 </p>
