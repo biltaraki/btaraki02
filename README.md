@@ -52,19 +52,6 @@ low-level programming and system development.
   </a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=btaraki02&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=btaraki02&theme=blue-green&hide_border=false" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=btaraki02&theme=blueberry&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
