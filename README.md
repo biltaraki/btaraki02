@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08c6cf&size=35&center=true&vCenter=true&width=1000&lines=Hello!;I'm+Bilal+Taraki🐦‍🔥;Programmer+|+AI+Enthusiast+|+Cybersecurity+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08c6cf&size=35&center=true&vCenter=true&width=1000&lines=Hello!;I+am+Bilal+Taraki🐦‍🔥;Programmer+|+AI+Enthusiast+|+Cybersecurity+Learner)
 
 </div>
 
