@@ -1,16 +1,17 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=btaraki02&color=344CB7)
+![Visitor Count](https://komarev.com/ghpvc/?username=btaraki02&color=1E90FF)
 
 <p align="center">
   <img src="one.jpg" width="100%" alt="1337 42 UMP CyberSecurity Banner"/>
 </p>
 
+<!-- HEADER -->
 <a href="#">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=19c4ef&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=&fontColor=19c4ef"/>
 </a>
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08c6cf&size=35&center=true&vCenter=true&width=1000&lines=Hello!;I'm+Bilal+Taraki;1337+Student+|+Programmer+|+AI+%26+Cybersecurity+Enthusiast+|+Web+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19c4ef&size=36&center=true&vCenter=true&width=1000&lines=Hello!;I'm+Bilal+Taraki;1337+Student+|+Programmer+|+AI+%26+Cybersecurity+Enthusiast+|+Web+Learner)
 
 </div>
 
@@ -88,7 +89,7 @@ while mastering **low-level programming** and **system development** in **C** an
 
 - 💼 LinkedIn: [Bilal Taraki](https://www.linkedin.com/in/bilal-taraki)
 - 📸 Instagram: [@bilal_taraki](https://www.instagram.com/bilal_taraki)
-- 💬 Discord: `bilal_90910`
+- 💬 Discord: `btaraki02`
 
 <p align="center">
   <img src="https://w.wallhaven.cc/full/wq/wallhaven-wq2kp7.png" width="600"/>
