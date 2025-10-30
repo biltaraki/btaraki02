@@ -74,7 +74,7 @@ while mastering **low-level programming** and **system development** in **C** an
 
 - 💼 LinkedIn: [Bilal Taraki](https://www.linkedin.com/in/bilal-taraki)
 - 📸 Instagram: [@bilal_taraki](https://www.instagram.com/bilal_taraki)
-- 💬 Discord: `btaraki02`
+- 💬 Discord: `bilal_90910`
 
 <p align="center">
   <img src="https://w.wallhaven.cc/full/wq/wallhaven-wq2kp7.png" width="600"/>
