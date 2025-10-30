@@ -1,5 +1,9 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=btaraki02&color=344CB7)
 
+<p align="center">
+  <img src="one.jpg" width="100%" alt="1337 42 UMP CyberSecurity Banner"/>
+</p>
+
 <a href="#">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=19c4ef&height=120&section=header"/>
 </a>
@@ -9,6 +13,10 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=08c6cf&size=35&center=true&vCenter=true&width=1000&lines=Hello!;I'm+Bilal+Taraki;1337+Student+|+Programmer+|+AI+%26+Cybersecurity+Enthusiast+|+Web+Learner)
 
 </div>
+
+<p align="center">
+  🧠 <b>AI Learner</b> • 🛡 <b>Cybersecurity Enthusiast</b> • 🌐 <b>Web Developer</b> • 💻 <b>1337/42 Student</b>
+</p>
 
 ---
 
@@ -24,7 +32,7 @@ while mastering **low-level programming** and **system development** in **C** an
 
 ## 🧠 Technologies & Skills
 
-- **Languages:** `C`, `Python`, `Bash`, `Shell Scripting`
+- **Languages:** `C`, `Python`, `Bash`, `Shell Scripting`, `HTML`, `CSS`
 - **Operating Systems:** `Linux`, `Unix`
 - **Version Control:** `Git`, `GitHub`
 - **Currently Learning:**  
@@ -32,7 +40,7 @@ while mastering **low-level programming** and **system development** in **C** an
   - `System Programming`  
   - `AI Fundamentals`  
   - `Cybersecurity Basics`  
-  - `Web Development`  
+  - `Web Development (HTML, CSS)`  
   - `Git Mastery`
 
 ---
@@ -48,6 +56,12 @@ while mastering **low-level programming** and **system development** in **C** an
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="60" height="60" alt="GNU Bash" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="60" height="60" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="60" height="60" alt="CSS3" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="60" height="60" alt="VS Code" />
